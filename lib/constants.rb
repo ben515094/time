@@ -1,18 +1,18 @@
 module Constants
-  TIMEZONE = 'Eastern Time (US & Canada)'
+  TIMEZONE = 'Central Time (US & Canada)'
   DAY_END = 1
-  BUILD_MEETINGS = 2
-  PRE_MEETINGS = 1
-  PRE_HOURS = 25
-  DEFAULT_LOGIN = "signup@team900.org"
-  TEAM_NAME = 'Zebracorns'
-  TEAM_NUMBER = '900'
+  BUILD_MEETINGS = 27
+  PRE_MEETINGS = 9
+  PRE_HOURS = 15
+  DEFAULT_LOGIN = "plexus@aasd.k12.wi.us"
+  TEAM_NAME = 'NEW Apple Corps'
+  TEAM_NUMBER = '93'
   SCHOOL_NAME_REPLACEMENT = 'School'
-  GENDERS = ['Male', 'Female', 'Other']
-  FRESHMAN_HOURS = 6
-  SOPHOMORE_HOURS = 8
-  JUNIOR_HOURS = 10
-  SENIOR_HOURS = 10
-  LEADERSHIP_HOURS = 15
-  FLEX_HOURS = 15
+  GENDERS = ['Male', 'Female']
+  FRESHMAN_HOURS = 70
+  SOPHOMORE_HOURS = 87.5
+  JUNIOR_HOURS = 87.5
+  SENIOR_HOURS = 87.5
+  LEADERSHIP_HOURS = 105
+  FLEX_HOURS = 16
 end
